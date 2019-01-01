@@ -28,15 +28,4 @@ date_format = "January 2006"
   description = """
   Built a chatbot to answer questions about the company's HR policies.
   """
-  
-  [[experience]]
-  title = "Project Trainee"
-  company = "Mastek Ltd"
-  company_url = "https://www.mastek.com"
-  location = "Mumbai"
-  date_start = "2018-06-12"
-  date_end = "2018-07-06"
-  description = """
-  Built a chatbot to answer questions about the company's HR policies.
-  """
 +++
