@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Machine Learning",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Science"
+    "Natural Language Processing",
   ]
 
 # List your qualifications (such as academic degrees).
